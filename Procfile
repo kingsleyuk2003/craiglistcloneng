@@ -1,1 +1,1 @@
-web: gunicorn olistclone.wsgi
+web: gunicorn craiglistcloneng.wsgi
